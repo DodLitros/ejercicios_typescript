@@ -8,4 +8,4 @@ console.log(firstName + ' ' + secondName)
 
 const containsLetterA = firstName.includes('a');
 
-console.log({containsLetterA, diceNumber, firstName, secondName})
+console.log({containsLetterA, diceNumber, firstName, secondName}) 
