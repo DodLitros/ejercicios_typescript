@@ -5,6 +5,6 @@ myArray2.push('0');
 
 console.log(myArray);
 
-for (const myNumber of myArray){
+for (const myNumber of myArray2){
     console.log(myNumber + ': algo')
 }
